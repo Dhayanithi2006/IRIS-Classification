@@ -1,3 +1,4 @@
+IRIS-CLASSIFICATION
 This project builds a machine learning model to classify Iris flower species based on sepal and petal measurements.
 Using the classic Iris dataset, two models were trained and evaluated:
 
